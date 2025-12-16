@@ -1,0 +1,17 @@
+# Backend
+/backend/target/
+/backend/.mvn/
+/backend/src/main/resources/application.properties
+
+# Frontend
+/frontend/node_modules/
+/frontend/.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Logs
+*.log
